@@ -17,7 +17,7 @@
     				"REF_Amount": "USD"
 			},
 			{
-				"key": "Influenza A virus",
+				"key": "Strain Bredeney",
 				"depth": 4,
 				"iDepth": 4,
 				"uid": 6,
@@ -27,7 +27,7 @@
 				"REF_Amount": "USD"
 			},
 			{
-				"key": "Severe acute respiratory syndrome coronavirus 2",
+				"key": "Strain Hadar",
 				"depth": 4,
 				"iDepth": 4,
 				"uid": 8,
@@ -37,7 +37,7 @@
 				"REF_Amount": "USD"
 			},
 			{
-				"key": "Marburg marburgvirus",
+				"key": "Strain Heidelberg",
 				"depth": 4,
 				"iDepth": 4,
 				"uid": 10,
@@ -47,7 +47,7 @@
 				"REF_Amount": "USD"
 			},
 			{
-				"key": "Middle East respiratory syndrome related coronavirus",
+				"key": "Strain Houtenae",
 				"depth": 4,
 				"iDepth": 4,
 				"uid": 12,
@@ -56,14 +56,64 @@
 				"Amount (TC)": 46581.36,
 				"REF_Amount": "USD"
 			},
-			{
-				"key": "Monkeypox virus",
+      {
+				"key": "Strain Infantis",
+				"depth": 4,
+				"iDepth": 4,
+				"uid": 12,
+				"color": "#ce6dbd",
+				"Amount (TC)-net": 46581.36,
+				"Amount (TC)": 46581.36,
+				"REF_Amount": "USD"
+			},
+      {
+				"key": "Strain Ohio",
+				"depth": 4,
+				"iDepth": 4,
+				"uid": 12,
+				"color": "#ce6dbd",
+				"Amount (TC)-net": 46581.36,
+				"Amount (TC)": 46581.36,
+				"REF_Amount": "USD"
+			},
+    	{
+				"key": "Strain Paratyphi A",
 				"depth": 4,
 				"iDepth": 4,
 				"uid": 14,
 				"color": "#ad494a",
 				"Amount (TC)-net": 37592.61,
 				"Amount (TC)": 37592.61,
+				"REF_Amount": "USD"
+			},
+      {
+				"key": "Strain Saintpaul",
+				"depth": 4,
+				"iDepth": 4,
+				"uid": 12,
+				"color": "#ce6dbd",
+				"Amount (TC)-net": 46581.36,
+				"Amount (TC)": 46581.36,
+				"REF_Amount": "USD"
+			},
+      {
+				"key": "Strain Typhimurium",
+				"depth": 4,
+				"iDepth": 4,
+				"uid": 12,
+				"color": "#ce6dbd",
+				"Amount (TC)-net": 46581.36,
+				"Amount (TC)": 46581.36,
+				"REF_Amount": "USD"
+			},
+      {
+				"key": "Strain Typhimurium var. 5-",
+				"depth": 4,
+				"iDepth": 4,
+				"uid": 12,
+				"color": "#ce6dbd",
+				"Amount (TC)-net": 46581.36,
+				"Amount (TC)": 46581.36,
 				"REF_Amount": "USD"
 			}
 		],
