@@ -4,19 +4,19 @@
 	"iDepth": 0,
 	"values": [{
 			"key": "Organism",
-			"values": [{
+			   "values": [{
 				    "key": "Severe_acute_respiratory_syndrome_coronavirus_2",
-				        "values": [{
-						            "key": "isolate_Wuhan_Hu_1",
-						            "depth": 4,
-						            "iDepth": 4,
-						"uid": 4,
-						"color": "#843c39",
-						"Amount (TC)-net": 50137.74,
-						"Amount (TC)": 50137.74,
-						"REF_Amount": "USD"
-					},
-					{
+				    "values": [{
+						    "key": "isolate_Wuhan_Hu_1",
+						      "depth": 4,
+						      "iDepth": 4,
+						      "uid": 4,
+						      "color": "#843c39",
+						      "Amount (TC)-net": 50137.74,
+						      "Amount (TC)": 50137.74,
+						      "REF_Amount": "USD"
+					     },
+					     {
 						"key": "Salmonella enterica",
 						"values": [{
 								"key": "Strain LT2",
