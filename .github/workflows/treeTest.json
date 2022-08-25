@@ -8,24 +8,24 @@
           "values": [
             {
               "key": "strain Bredeney",
-              "depth": 40,
-              "iDepth": 40,
-              "uid": 40,
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 12,
               "color": "#7b4173"
               
             },
             {
               "key": "strain Hadar",
-              "depth": 40,
-              "iDepth": 40,
-              "uid": 40,
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "strain Heidelberg",
-              "depth": 40,
-              "iDepth": 40,
-              "uid": 40,
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
@@ -61,7 +61,7 @@
               "key": "strain Paratyphi A",
               "depth": 4,
               "iDepth": 4,
-              "uid": 14,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
