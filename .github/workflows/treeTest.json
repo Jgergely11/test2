@@ -7,14 +7,6 @@
           "key": "Salmonella enterica",
           "values": [
             {
-              "key": "strain TEST",
-              "depth": 40,
-              "iDepth": 40,
-              "uid": 4,
-              "color": "#7b4173"
-              
-            },
-            {
               "key": "strain Bredeney",
               "depth": 40,
               "iDepth": 40,
@@ -45,6 +37,13 @@
             },
             {
               "key": "strain Infantis",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 12,
+              "color": "#7b4173"
+            },
+            {
+              "key": "strain LT2",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
