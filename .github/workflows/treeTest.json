@@ -178,7 +178,7 @@
           ],
           "depth": 4,
           "iDepth": 4,
-          "uid": 3,
+          "uid": 12,
           "color": "#7b4173"
         },
         {
@@ -188,20 +188,20 @@
               "key": "strain EMC",
               "depth": 4,
               "iDepth": 4,
-              "uid": 900,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "strain JOR",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             }
           ],
           "depth": 3,
           "iDepth": 3,
-          "uid": 3,
+          "uid": 12,
           "color": "#7b4173"
         },
         {
@@ -211,28 +211,28 @@
               "key": "strain IRF0296",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "strain Ravn virus/IRF0322 RAVN ",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "strain musoke",
-              "depth": 300,
-              "iDepth": 300,
-              "uid": 300,
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "strain_MARV_ANGOLA",
-              "depth": 300,
-              "iDepth": 300,
-              "uid": 300,
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 12,
               "color": "#7b4173"
             }
           ],
