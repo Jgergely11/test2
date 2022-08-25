@@ -7,7 +7,7 @@
           "key": "Salmonella enterica",
           "values": [
             {
-              "key": "Strain LT2",
+              "key": "strain LT2",
               "depth": 40,
               "iDepth": 40,
               "uid": 4,
@@ -17,7 +17,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Bredeney",
+              "key": "strain Bredeney",
               "depth": 4,
               "iDepth": 4,
               "uid": 6,
@@ -27,7 +27,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Hadar",
+              "key": "strain Hadar",
               "depth": 4,
               "iDepth": 4,
               "uid": 8,
@@ -37,7 +37,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Heidelberg",
+              "key": "strain Heidelberg",
               "depth": 4,
               "iDepth": 4,
               "uid": 10,
@@ -47,7 +47,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Houtenae",
+              "key": "strain Houtenae",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
@@ -57,7 +57,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Infantis",
+              "key": "strain Infantis",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
@@ -67,7 +67,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Ohio",
+              "key": "strain Ohio",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
@@ -77,7 +77,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Paratyphi A",
+              "key": "strain Paratyphi A",
               "depth": 4,
               "iDepth": 4,
               "uid": 14,
@@ -87,7 +87,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Saintpaul",
+              "key": "strain Saintpaul",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
@@ -97,7 +97,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Typhimurium",
+              "key": "strain Typhimurium",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
@@ -107,7 +107,7 @@
               "REF_Amount": "USD"
             },
             {
-              "key": "Strain Typhimurium var. 5-",
+              "key": "strain Typhimurium var. 5-",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
@@ -126,7 +126,7 @@
           "REF_Amount": "USD"
         },
         {
-          "key": "Influenza A virus",
+          "key": "Influenza A virus  strain APuerto Rico81934 H1N1",
           "values": [
             {
               "key": " strain APuerto Rico81934 H1N1",
@@ -148,7 +148,7 @@
           "REF_Amount": "USD"
         },
         {
-          "key": "Severe acute respiratory syndrome coronavirus 2 ",
+          "key": "SARS-CoV-2 ",
           "values": [
             {
               "key": "isolate Wuhan Hu 1",
@@ -335,7 +335,7 @@
           "Amount (TC)": 249753.77999999997,
           "REF_Amount": "USD"
         }
-        
-      
+
+
   ]
 }
