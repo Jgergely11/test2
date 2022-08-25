@@ -129,10 +129,10 @@
           "REF_Amount": "USD"
         },
         {
-          "key": "Salmonella ",
+          "key": "Salmonella2 ",
           "values": [
             {
-              "key": " LT2",
+              "key": " LT22",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
@@ -140,25 +140,42 @@
               "Amount (TC)-net": 50137.74,
               "Amount (TC)": 50137.74,
               "REF_Amount": "USD"
-            },
-            {
-              "key": "Salmonella3 ",
-              "values": [
-                {
-                  "key": " LT3",
-                  "depth": 4,
-                  "iDepth": 4,
-                  "uid": 4,
-                  "color": "#843c39",
-                  "Amount (TC)-net": 50137.74,
-                  "Amount (TC)": 50137.74,
-                  "REF_Amount": "USD"
-                }
-              ]
             }
-          ]
+          ],
+          "depth": 3,
+          "iDepth": 3,
+          "uid": 3,
+          "color": "#6b6ecf",
+          "Amount (TC)-net": 249753.77999999997,
+          "Amount (TC)": 249753.77999999997,
+          "REF_Amount": "USD"
+        },
+        {
+          "key": "Salmonella3 ",
+          "values": [
+            {
+              "key": " LT3",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            }
+          ],
+          "depth": 3,
+          "iDepth": 3,
+          "uid": 3,
+          "color": "#6b6ecf",
+          "Amount (TC)-net": 249753.77999999997,
+          "Amount (TC)": 249753.77999999997,
+          "REF_Amount": "USD"
         }
-      ]
+        
+          ]
+        
+      
     }
   ]
 }
