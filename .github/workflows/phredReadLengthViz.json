@@ -150,16 +150,16 @@
     {
       "stroke": "color",
       "legendX": {"value": 10},
-      "title": "instrument",
+      "title": "Instrument",
       "titleFontSize": {"value": 30},
-      "labelFontSize": {"value": 20},
+      "labelFontSize": {"value": 15},
       "encode": {
         "symbols": {
           "name": "legendSymbol",
           "interactive": true,
           "update": {
             "fill": {"value": "transparent"},
-            "strokeWidth": {"value": 3},
+            "strokeWidth": {"value": 2},
             "opacity": [
               {
                 "test": "!length(data('selected')) || indata('selected', 'value', datum.value)",
