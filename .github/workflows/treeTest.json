@@ -129,10 +129,10 @@
           "REF_Amount": "USD"
         },
         {
-          "key": "Salmonella2 ",
+          "key": "Influenza A virus",
           "values": [
             {
-              "key": " LT22",
+              "key": " strain APuerto Rico81934 H1N1",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
@@ -151,10 +151,70 @@
           "REF_Amount": "USD"
         },
         {
-          "key": "Salmonella3 ",
+          "key": "Severe acute respiratory syndrome coronavirus 2 ",
           "values": [
             {
-              "key": " LT3",
+              "key": "isolate Wuhan Hu 1",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            },
+            {
+              "key": "2019-nCoV/USA-WA1/2020",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            },
+            {
+              "key": "B.1.1.7/Alpha isolate",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            },
+            {
+              "key": "B.1.351/Beta isolate",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            },
+            {
+              "key": "P.1/Gamma isolate",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            },
+            {
+              "key": "B.1.617.2/Delta isolate",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            },
+            {
+              "key": "B.1.1.529/Omicron isolate",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
