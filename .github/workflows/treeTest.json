@@ -86,9 +86,9 @@
               "color": "#7b4173"
             }
           ],
-          "depth": 3,
-          "iDepth": 3,
-          "uid": 3,
+          "depth": 4,
+          "iDepth": 4,
+          "uid": 12,
           "color": "#7b4173"
         },
         {
@@ -98,71 +98,71 @@
               "key": " strain APuerto Rico81934 H1N1",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             }
           ],
-          "depth": 3,
-          "iDepth": 3,
-          "uid": 3,
+          "depth": 4,
+          "iDepth": ,4
+          "uid": 12,
           "color": "#7b4173"
         },
         {
           "key": "SARS-CoV-2 ",
           "values": [
             {
-              "key": "isolate Wuhan Hu 1",
+              "key": "Wuhan Hu 1 isolate",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "2019-nCoV/USA-WA1/2020",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "B.1.1.7/Alpha isolate",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "B.1.351/Beta isolate",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "P.1/Gamma isolate",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "B.1.617.2/Delta isolate",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             },
             {
               "key": "B.1.1.529/Omicron isolate",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             }
           ],
-          "depth": 3,
-          "iDepth": 3,
-          "uid": 3,
+          "depth": 4,
+          "iDepth": 4,
+          "uid": 12,
           "color": "#7b4173"
         },
         {
@@ -172,12 +172,12 @@
               "key": "Monkeypox virus",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 12,
               "color": "#7b4173"
             }
           ],
-          "depth": 3,
-          "iDepth": 3,
+          "depth": 4,
+          "iDepth": ,
           "uid": 3,
           "color": "#7b4173"
         },
@@ -223,16 +223,16 @@
             },
             {
               "key": "strain musoke",
-              "depth": 4,
-              "iDepth": 4,
-              "uid": 4,
+              "depth": 300,
+              "iDepth": 300,
+              "uid": 300,
               "color": "#7b4173"
             },
             {
               "key": "strain_MARV_ANGOLA",
-              "depth": 4,
-              "iDepth": 4,
-              "uid": 4,
+              "depth": 300,
+              "iDepth": 300,
+              "uid": 300,
               "color": "#7b4173"
             }
           ],
