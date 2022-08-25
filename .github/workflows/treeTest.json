@@ -15,54 +15,40 @@
               
             },
             {
-              "key": "strain TEST",
+              "key": "strain Bredeney",
               "depth": 4,
               "iDepth": 4,
               "uid": 6,
-              "color": "#7b4173",
-              "Amount (TC)-net": 29306.85,
-              "Amount (TC)": 29306.85,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
+              
             },
             {
               "key": "strain Hadar",
               "depth": 4,
               "iDepth": 4,
               "uid": 8,
-              "color": "#7b4173",
-              "Amount (TC)-net": 42937.92,
-              "Amount (TC)": 42937.92,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Heidelberg",
               "depth": 4,
               "iDepth": 4,
               "uid": 10,
-              "color": "#7b4173",
-              "Amount (TC)-net": 43197.3,
-              "Amount (TC)": 43197.3,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Houtenae",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
-              "color": "#7b4173",
-              "Amount (TC)-net": 46581.36,
-              "Amount (TC)": 46581.36,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Infantis",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
-              "color": "#7b4173",
-              "Amount (TC)-net": 46581.36,
-              "Amount (TC)": 46581.36,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Ohio",
@@ -77,49 +63,34 @@
               "depth": 4,
               "iDepth": 4,
               "uid": 14,
-              "color": "#7b4173",
-              "Amount (TC)-net": 37592.61,
-              "Amount (TC)": 37592.61,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Saintpaul",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
-              "color": "#7b4173",
-              "Amount (TC)-net": 46581.36,
-              "Amount (TC)": 46581.36,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Typhimurium",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
-              "color": "#7b4173",
-              "Amount (TC)-net": 46581.36,
-              "Amount (TC)": 46581.36,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Typhimurium var. 5-",
               "depth": 4,
               "iDepth": 4,
               "uid": 12,
-              "color": "#7b4173",
-              "Amount (TC)-net": 46581.36,
-              "Amount (TC)": 46581.36,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             }
           ],
           "depth": 3,
           "iDepth": 3,
           "uid": 3,
-          "color": "#7b4173",
-          "Amount (TC)-net": 249753.77999999997,
-          "Amount (TC)": 249753.77999999997,
-          "REF_Amount": "USD"
+          "color": "#7b4173"
         },
         {
           "key": "Influenza A virus  strain APuerto Rico81934 H1N1",
@@ -129,19 +100,13 @@
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             }
           ],
           "depth": 3,
           "iDepth": 3,
           "uid": 3,
-          "color": "#7b4173",
-          "Amount (TC)-net": 249753.77999999997,
-          "Amount (TC)": 249753.77999999997,
-          "REF_Amount": "USD"
+          "color": "#7b4173"
         },
         {
           "key": "SARS-CoV-2 ",
@@ -151,79 +116,55 @@
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "2019-nCoV/USA-WA1/2020",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "B.1.1.7/Alpha isolate",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "B.1.351/Beta isolate",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "P.1/Gamma isolate",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "B.1.617.2/Delta isolate",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "B.1.1.529/Omicron isolate",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             }
           ],
           "depth": 3,
           "iDepth": 3,
           "uid": 3,
-          "color": "#7b4173",
-          "Amount (TC)-net": 249753.77999999997,
-          "Amount (TC)": 249753.77999999997,
-          "REF_Amount": "USD"
+          "color": "#7b4173"
         },
         {
           "key": "Monkeypox virus",
@@ -233,19 +174,13 @@
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             }
           ],
           "depth": 3,
           "iDepth": 3,
           "uid": 3,
-          "color": "#7b4173",
-          "Amount (TC)-net": 249753.77999999997,
-          "Amount (TC)": 249753.77999999997,
-          "REF_Amount": "USD"
+          "color": "#7b4173"
         },
         {
           "key": "Middle East respiratory syndrome related coronavirus ",
@@ -255,29 +190,20 @@
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain JOR",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             }
           ],
           "depth": 3,
           "iDepth": 3,
           "uid": 3,
-          "color": "#7b4173",
-          "Amount (TC)-net": 249753.77999999997,
-          "Amount (TC)": 249753.77999999997,
-          "REF_Amount": "USD"
+          "color": "#7b4173"
         },
         {
           "key": "Marburg marburgvirus",
@@ -287,49 +213,34 @@
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain Ravn virus/IRF0322 RAVN ",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain musoke",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             },
             {
               "key": "strain_MARV_ANGOLA",
               "depth": 4,
               "iDepth": 4,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
             }
           ],
           "depth": 300,
           "iDepth": 300,
           "uid": 300,
-          "color": "#7b4173",
-          "Amount (TC)-net": 249753.77999999997,
-          "Amount (TC)": 249753.77999999997,
-          "REF_Amount": "USD"
+          "color": "#7b4173"
         }
         
       
