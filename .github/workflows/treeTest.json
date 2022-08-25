@@ -3,9 +3,8 @@
 	"depth": 0,
 	"iDepth": 0,
 	"values": [{
-			"key": "Organism",
-			  
-           
+			"key": "Organism",		  
+           "values": [{
 						"key": "Salmonella enterica",
 						"values": [{
 								"key": "Strain LT2",
