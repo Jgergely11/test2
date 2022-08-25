@@ -1,12 +1,9 @@
 {
-  "key": "",
+  "key": "Organism",
   "depth": 0,
   "iDepth": 0,
   "values": [
-    {
-      "key": "Organism",
-      "values": [
-        {
+            {
           "key": "Salmonella enterica",
           "values": [
             {
@@ -338,7 +335,7 @@
           "Amount (TC)": 249753.77999999997,
           "REF_Amount": "USD"
         }
-        ]
-      }
+        
+      
   ]
 }
