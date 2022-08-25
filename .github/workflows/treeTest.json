@@ -4,18 +4,6 @@
 	"iDepth": 0,
 	"values": [{
 			"key": "Organism",
-           "values": [{
-             "key": "covid",
- 						 "values": [{
- 								"key": "covid",
- 								"depth": 4,
- 								"iDepth": 4,
- 								"uid": 4,
- 								"color": "#843c39",
- 								"Amount (TC)-net": 50139.74,
- 								"Amount (TC)": 50139.74,
- 								"REF_Amount": "USD"
- 							}],
             "values": [{
 						"key": "Salmonella enterica",
 						"values": [{
