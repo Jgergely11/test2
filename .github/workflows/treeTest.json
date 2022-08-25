@@ -12,7 +12,7 @@
               "iDepth": 4,
               "uid": 12,
               "color": "#7b4173"
-              
+
             },
             {
               "key": "strain Hadar",
@@ -188,7 +188,7 @@
               "key": "strain EMC",
               "depth": 4,
               "iDepth": 4,
-              "uid": 4,
+              "uid": 900,
               "color": "#7b4173"
             },
             {
@@ -241,7 +241,7 @@
           "uid": 300,
           "color": "#7b4173"
         }
-        
-      
+
+
   ]
 }
