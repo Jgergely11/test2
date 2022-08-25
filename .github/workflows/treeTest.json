@@ -327,10 +327,10 @@
               "REF_Amount": "USD"
             }
           ],
-          "depth": 3,
-          "iDepth": 3,
-          "uid": 3,
-          "color": "#6b6ecf",
+          "depth": 300,
+          "iDepth": 300,
+          "uid": 300,
+          "color": "#7b4173",
           "Amount (TC)-net": 249753.77999999997,
           "Amount (TC)": 249753.77999999997,
           "REF_Amount": "USD"
