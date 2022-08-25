@@ -126,8 +126,19 @@
 						"Amount (TC)-net": 249753.77999999997,
 						"Amount (TC)": 249753.77999999997,
 						"REF_Amount": "USD"
-					}
+					},
+          {"key": "Salmonella ",
+          "values": [{
+              "key": " LT2",
+              "depth": 4,
+              "iDepth": 4,
+              "uid": 4,
+              "color": "#843c39",
+              "Amount (TC)-net": 50137.74,
+              "Amount (TC)": 50137.74,
+              "REF_Amount": "USD"
+            }
 				]
 			}]
 
-	}
+	}]}
