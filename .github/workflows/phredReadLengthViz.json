@@ -135,7 +135,8 @@
       "domain": false,
       "orient": "bottom",
       "tickCount": 5,
-      "title": "avg_phred_score"
+      "title": "avg_phred_score",
+      "titleFontSize": {"value": 20}
     },
     {
       "scale": "y",
