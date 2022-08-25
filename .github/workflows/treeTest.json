@@ -1,5 +1,5 @@
 {
-  "key": "Organism",
+  "key": "",
   "depth": 40,
   "iDepth": 40,
   "values": [
@@ -72,8 +72,6 @@
               "iDepth": 4,
               "uid": 12,
               "color": "#7b4173",
-              "Amount (TC)-net": 46581.36,
-              "Amount (TC)": 46581.36,
               "REF_Amount": "USD"
             },
             {
