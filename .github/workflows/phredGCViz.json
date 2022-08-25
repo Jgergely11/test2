@@ -88,7 +88,7 @@
       "transform": [
         {
           "type": "filter",
-          "expr": "datum['avg_phred_score'] != null && datum['avg_read_length'] != null && datum['instrument'] != null && datum"
+          "expr": "datum['avg_phred_score'] != null && datum['ngs_gc_content'] != null && datum['instrument'] != null && datum"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "round": true,
       "nice": true,
       "zero": true,
-      "domain": {"data": "source", "field": "avg_read_length"},
+      "domain": {"data": "source", "field": "ngs_gc_content"},
       "range": [750, 0]
     },
     {
@@ -143,7 +143,7 @@
       "domain": false,
       "orient": "left",
       "titlePadding": 5,
-      "title": "avg_read_length"
+      "title": "ngs_gc_content"
     }
   ],
   "legends": [
@@ -228,7 +228,7 @@
       "encode": {
         "update": {
           "x": {"scale": "x", "field": "avg_phred_score"},
-          "y": {"scale": "y", "field": "avg_read_length"},
+          "y": {"scale": "y", "field": "ngs_gc_content"},
           "shape": {"value": "circle"},
           "strokeWidth": {"value": 2},
           "opacity": [
