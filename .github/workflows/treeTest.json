@@ -1,15 +1,15 @@
 {
   "key": "Organism",
-  "depth": 0,
-  "iDepth": 0,
+  "depth": 40,
+  "iDepth": 40,
   "values": [
             {
           "key": "Salmonella enterica",
           "values": [
             {
               "key": "Strain LT2",
-              "depth": 4,
-              "iDepth": 4,
+              "depth": 40,
+              "iDepth": 40,
               "uid": 4,
               "color": "#843c39",
               "Amount (TC)-net": 50137.74,
