@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "A scatter plot example with interactive legend and x-axis.",
-  "width": 750,
+  "width": 900,
   "height": 750,
   "padding": 5,
   "autosize": "pad",
@@ -88,7 +88,7 @@
       "transform": [
         {
           "type": "filter",
-          "expr": "datum['avg_phred_score'] != null && datum['ngs_gc_content'] != null && datum['instrument'] != null"
+          "expr": "datum['avg_phred_score'] != null && datum['avg_read_length'] != null && datum['instrument'] != null && datum"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "round": true,
       "nice": true,
       "zero": true,
-      "domain": {"data": "source", "field": "ngs_gc_content"},
+      "domain": {"data": "source", "field": "avg_read_length"},
       "range": [750, 0]
     },
     {
@@ -143,15 +143,16 @@
       "domain": false,
       "orient": "left",
       "titlePadding": 5,
-      "title": "ngs_gc_content"
+      "title": "avg_read_length"
     }
   ],
   "legends": [
     {
       "stroke": "color",
-      "title": "instrument",
+      "legendX": {"value": 10},
+      "title": "Instrument",
       "titleFontSize": {"value": 30},
-      "labelFontSize": {"value": 20},
+      "labelFontSize": {"value": 15},
       "encode": {
         "symbols": {
           "name": "legendSymbol",
@@ -166,7 +167,7 @@
               },
               {"value": 0.15}
             ],
-            "size": {"value": 64}
+            "size": {"value": 150}
           }
         },
         "labels": {
@@ -227,7 +228,7 @@
       "encode": {
         "update": {
           "x": {"scale": "x", "field": "avg_phred_score"},
-          "y": {"scale": "y", "field": "ngs_gc_content"},
+          "y": {"scale": "y", "field": "avg_read_length"},
           "shape": {"value": "circle"},
           "strokeWidth": {"value": 2},
           "opacity": [
