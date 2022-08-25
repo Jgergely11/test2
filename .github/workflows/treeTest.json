@@ -1,5 +1,5 @@
 {
-  "key": "Oganism",
+  "key": "Organism",
   "depth": 40,
   "iDepth": 40,
   "values": [
@@ -11,10 +11,8 @@
               "depth": 40,
               "iDepth": 40,
               "uid": 4,
-              "color": "#7b4173",
-              "Amount (TC)-net": 50137.74,
-              "Amount (TC)": 50137.74,
-              "REF_Amount": "USD"
+              "color": "#7b4173"
+              
             },
             {
               "key": "strain Bredeney",
