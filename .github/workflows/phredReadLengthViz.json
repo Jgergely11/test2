@@ -144,7 +144,7 @@
       "domain": false,
       "orient": "left",
       "titlePadding": 5,
-      "title": "Average Read Score",
+      "title": "Average Read Length",
       "titleFontSize": {"value": 20}
     }
   ],
