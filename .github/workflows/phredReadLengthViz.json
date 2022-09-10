@@ -84,7 +84,7 @@
   "data": [
     {
       "name": "source",
-      "url": "https://raw.githubusercontent.com/Jgergely11/test2/main/.github/workflows/ngsQC_HL.json",
+      "url": "https://raw.githubusercontent.com/Jgergely11/test2/main/.github/workflows/ngsQC_HL_illumina.json",
       "transform": [
         {
           "type": "filter",
