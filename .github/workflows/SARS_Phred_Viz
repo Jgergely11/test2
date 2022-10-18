@@ -79,7 +79,7 @@
           "update": "span(brush) ? invert('x', brush) : null"
         }
       ]
-    }
+    } 
   ],
   "data": [
     {
