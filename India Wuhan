@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width":800,
+  "height":500,
+
+  "data": {"url": "https://raw.githubusercontent.com/Jgergely11/test2/main/India_Wuhan_Pangolin1.tsv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "timeUnit": "year, month",
+      "field": "Collection Date",
+      "type": "ordinal",
+      "title": "Month"
+    },
+    "y": {
+      "aggregate": "count",
+      "type": "quantitative",
+      "title": "Lineage Count"
+    },
+    "color": {
+      "field": "Lineage",
+      "type": "nominal",
+      "scale": {
+        "domain": ["B.1.1", "BA.2","BA.2.75","B","B.1.1.529"],
+        "range": ["#E6E6FA","#808000","#FF1493","#5F9EA0","#D2691E"]
+      },
+      "title": "Lineage"
+    }
+  }
+}
