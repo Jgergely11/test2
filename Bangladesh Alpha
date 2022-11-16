@@ -21,8 +21,8 @@
       "field": "Lineage",
       "type": "nominal",
       "scale": {
-        "domain": ["B.1.617.2", "AY.111", "AY.65", "AY.122", "AY.127","AY.108","AY.  112", "AY.126","AY.99","AY.112.1","AY.6","AY.55","B.1.1.7" ],
-        "range": ["#DC143C", "#6495ED", "#9370DB", "#9ACD32", "#800000", "#FFA500", "#66CDAA", "#6A5ACD", "#008B8B", "#FF69B4", "#32CD32", "#B0C4DE"]
+        "domain": ["B.1.1.7" ],
+        "range": ["#DB7093"]
       },
       "title": "Lineage"
     }
