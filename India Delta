@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width":800,
+  "height":500,
+
+  "data": {"url": "https://raw.githubusercontent.com/Jgergely11/test2/main/India_Delta_Pangolin1.tsv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "timeUnit": "year, month",
+      "field": "Collection Date",
+      "type": "ordinal",
+      "title": "Month"
+    },
+    "y": {
+      "aggregate": "count",
+      "type": "quantitative",
+      "title": "Lineage Count"
+    },
+    "color": {
+      "field": "Lineage",
+      "type": "nominal",
+      "scale": {
+        "domain": ["B.1.617.2","AY.127","AY.126","AY.4","AY.107"],
+        "range": ["#6495ED","#2F4F4F","#B22222","#48D1CC","#8B008B"]
+      },
+      "title": "Lineage"
+    }
+  }
+}
