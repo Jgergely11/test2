@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width":800,
+  "height":500,
+
+  "data": {"url": "https://raw.githubusercontent.com/Jgergely11/test2/main/Bangladesh_Delta_Pangolin1.tsv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "timeUnit": "year, month",
+      "field": "Collection Date",
+      "type": "ordinal",
+      "title": "Month"
+    },
+    "y": {
+      "aggregate": "count",
+      "type": "quantitative",
+      "title": "Lineage Count"
+    },
+    "color": {
+      "field": "Lineage",
+      "type": "nominal",
+      "scale": {
+        "domain": ["B.1.617.2", "AY.65", "AY.122", "AY.127","AY.112","AY.126", "AY.131","AY.75.2"],
+        "range": ["#6495ED", "#8A2BE2", "#228B22", "#2F4F4F", "#20B2AA", "#B22222", "#8B0000", "#7CFC00"]
+      },
+      "title": "Lineage"
+    }
+  }
+}
