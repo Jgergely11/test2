@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width":800,
+  "height":500,
+
+  "data": {"url": "https://raw.githubusercontent.com/Jgergely11/test2/main/Pakistan_Alpha_Pangolin1.tsv"},
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "timeUnit": "year, month",
+      "field": "Collection Date",
+      "type": "ordinal",
+      "title": "Month"
+    },
+    "y": {
+      "aggregate": "count",
+      "type": "quantitative",
+      "title": "Lineage Count"
+    },
+    "color": {
+      "field": "Lineage",
+      "type": "nominal",
+      "scale": {
+        "domain": ["B.1.1.7" ],
+        "range": ["#DB7093"]
+      },
+      "title": "Lineage"
+    }
+  }
+}
