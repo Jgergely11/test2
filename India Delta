@@ -3,7 +3,7 @@
   "width":800,
   "height":500,
 
-  "data": {"url": "https://raw.githubusercontent.com/Jgergely11/test2/main/India_Delta_Pangolin1.tsv"},
+  "data": {"url": "https://raw.githubusercontent.com/Jgergely11/test2/main/IndiaDelta2_Pangolin1.tsv"},
   "mark": "bar",
   "encoding": {
     "x": {
@@ -21,8 +21,8 @@
       "field": "Lineage",
       "type": "nominal",
       "scale": {
-        "domain": ["B.1.617.2","AY.127","AY.126","AY.4","AY.107"],
-        "range": ["#6495ED","#2F4F4F","#B22222","#48D1CC","#8B008B"]
+        "domain": ["B.1.617.2","AY.122","AY.127","AY.126","AY.4","AY.107","AY.120","AY.1","AY.92"],
+        "range": ["#6495ED","#228B22","#2F4F4F","#B22222","#48D1CC","#8B008B","#008080","#FFD700","#FA8072"]
       },
       "title": "Lineage"
     }
