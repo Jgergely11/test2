@@ -1,0 +1,520 @@
+organism_name,count
+Escherichia coli,267
+Staphylococcus aureus,157
+Klebsiella pneumoniae,112
+Zika virus,74
+Zaire ebolavirus,73
+Salmonella enterica,54
+West Nile virus,52
+Burkholderia multivorans,35
+Pseudomonas aeruginosa,31
+Bacillus cereus,28
+Staphylococcus epidermidis,27
+Bacillus anthracis,27
+Yersinia pseudotuberculosis,26
+Vibrio parahaemolyticus,25
+Shigella flexneri,24
+Achromobacter xylosoxidans,24
+Dengue virus,24
+Vibrio alginolyticus,23
+Klebsiella aerogenes,23
+Burkholderia cenocepacia,23
+Bacillus thuringiensis,23
+Staphylococcus hominis,22
+Burkholderia thailandensis,22
+Clostridioides difficile,21
+Bacteroides fragilis,21
+Acinetobacter baumannii,21
+Bordetella pertussis,21
+Proteus mirabilis,20
+Listeria monocytogenes,20
+Shigella sonnei,19
+Pasteurella multocida,19
+Enterobacter hormaechei,19
+Citrobacter koseri,19
+Klebsiella oxytoca,18
+Neisseria meningitidis,18
+Burkholderia mallei,18
+Candida parapsilosis,18
+Chryseobacterium indologenes,17
+Streptococcus pyogenes,16
+Providencia stuartii,16
+Campylobacter jejuni,16
+Acinetobacter pittii,16
+Enterococcus faecalis,16
+Stenotrophomonas maltophilia,15
+Yersinia enterocolitica,15
+Burkholderia dolosa,15
+Achromobacter denitrificans,15
+Enterococcus faecium,15
+Francisella tularensis,15
+Vibrio vulnificus,14
+Burkholderia pseudomallei,14
+Bordetella bronchiseptica,14
+Morganella morganii,13
+Corynebacterium amycolatum,13
+Citrobacter amalonaticus,13
+Mycolicibacterium smegmatis,12
+Staphylococcus lugdunensis,12
+Parabacteroides distasonis,12
+Serratia marcescens,12
+Helicobacter pylori,12
+Serratia plymuthica,12
+Vibrio cholerae,12
+Streptococcus oralis,12
+Raoultella planticola,12
+Haemophilus influenzae,12
+Clostridium sporogenes,12
+Rhizobium pusense,11
+Staphylococcus haemolyticus,11
+Leishmania donovani,11
+Klebsiella quasipneumoniae,11
+Streptococcus salivarius,11
+Pediococcus pentosaceus,11
+Mycobacterium tuberculosis,11
+Citrobacter braakii,11
+Cupriavidus pauculus,11
+Enterococcus hirae,11
+Corynebacterium striatum,11
+Hafnia alvei,11
+Streptomyces californicus,10
+Streptococcus agalactiae,10
+Yersinia pestis,10
+Lactococcus garvieae,10
+Streptococcus gordonii,10
+Lactococcus lactis,10
+Sudan ebolavirus,10
+Sphingobacterium multivorum,10
+Staphylococcus pasteuri,10
+Aeromonas enteropelogenes,10
+Aeromonas caviae,10
+Citrobacter freundii,10
+Corynebacterium tuberculostearicum,10
+Finegoldia magna,10
+Brevibacterium casei,10
+Clostridium perfringens,10
+Enterococcus avium,10
+Chromobacterium violaceum,10
+Campylobacter coli,10
+Streptococcus mutans,9
+Staphylococcus saprophyticus,9
+Vibrio harveyi,9
+Streptococcus dysgalactiae,9
+Proteus vulgaris,9
+Prevotella melaninogenica,9
+Pantoea agglomerans,9
+Escherichia fergusonii,9
+Delftia acidovorans,9
+Corynebacterium glucuronolyticum,9
+Bundibugyo ebolavirus,9
+Acinetobacter lwoffii,9
+Staphylococcus capitis,8
+Staphylococcus equorum,8
+Venezuelan equine encephalitis virus,8
+Neisseria gonorrhoeae,8
+Psychrobacter sanguinis,8
+Lelliottia amnigena,8
+Mycobacterium kansasii,8
+Providencia rettgeri,8
+Moraxella osloensis,8
+Yersinia intermedia,8
+Mycobacterium avium subsp. avium,8
+Paracoccus yeei,8
+Nocardia asteroides,8
+Staphylococcus cohnii,8
+Bordetella parapertussis,8
+Burkholderia cepacia,8
+Corynebacterium diphtheriae,8
+Enterobacter asburiae,8
+Corynebacterium urealyticum,8
+Enterococcus casseliflavus,8
+Acinetobacter johnsonii,8
+Enterobacter bugandensis,8
+Burkholderia gladioli,8
+Erysipelatoclostridium ramosum,8
+Burkholderia oklahomensis,8
+Burkholderia vietnamiensis,8
+Gordonia bronchialis,8
+Vibrio mimicus,7
+Klebsiella variicola,7
+Streptococcus equinus,7
+Staphylococcus pseudintermedius,7
+Campylobacter ureolyticus,7
+Bacteroides ovatus,7
+Citrobacter portucalensis,7
+Burkholderia glumae,7
+Bacteroides thetaiotaomicron,7
+Bacillus tropicus,7
+Corynebacterium propinquum,7
+Niallia circulans,6
+Klebsiella michiganensis,6
+Micrococcus luteus,6
+Phocaeicola vulgatus,6
+Mycobacteroides abscessus subsp. abscessus,6
+Legionella anisa,6
+Vibrio fluvialis,6
+Pediococcus acidilactici,6
+Pseudomonas putida,6
+Mycobacterium intracellulare,6
+Salmonella enterica subsp. enterica serovar Typhimurium,6
+Streptococcus constellatus,6
+Salmonella enterica subsp. enterica serovar Heidelberg,6
+Staphylococcus carnosus,6
+Legionella pneumophila,6
+Jonesia denitrificans,6
+Sphingobacterium spiritivorum,6
+Aeromonas hydrophila,6
+Corynebacterium minutissimum,6
+Gardnerella vaginalis,6
+Candida albicans,6
+Enterobacter ludwigii,6
+Citrobacter werkmanii,6
+Acinetobacter ursingii,6
+Corynebacterium kroppenstedtii,6
+Pseudomonas oryzihabitans,5
+Ross River virus,5
+Mycobacteroides abscessus,5
+Staphylococcus simulans,5
+Moraxella catarrhalis,5
+Peptoniphilus harei,5
+Pseudomonas stutzeri,5
+Serratia liquefaciens,5
+Legionella longbeachae,5
+Streptococcus intermedius,5
+Marburg marburgvirus,5
+Enterocloster clostridioformis,5
+Anaerococcus vaginalis,5
+Corynebacterium jeikeium,5
+Bacteroides caccae,5
+Campylobacter upsaliensis,5
+Bacillus sp. (in: firmicutes),5
+Aspergillus niger,5
+Edwardsiella tarda,5
+Chikungunya virus,5
+Elizabethkingia anophelis,5
+Acinetobacter nosocomialis,5
+Tai Forest ebolavirus,4
+Saccharomyces cerevisiae,4
+Middle East respiratory syndrome-related coronavirus,4
+Salmonella enterica subsp. enterica serovar Typhimurium var. 5-,4
+Lachnospiraceae bacterium GAM79,4
+Salmonella enterica subsp. houtenae,4
+Moraxella nonliquefaciens,4
+Staphylococcus pettenkoferi,4
+Myroides odoratus,4
+Legionella pneumophila subsp. pneumophila,4
+Macrococcus caseolyticus,4
+Streptococcus infantarius,4
+Leuconostoc pseudomesenteroides,4
+Pantoea ananatis,4
+Paraburkholderia ginsengisoli,4
+Streptococcus mitis,4
+Staphylococcus warneri,4
+Kytococcus sedentarius,4
+Pluralibacter gergoviae,4
+Mobiluncus curtisii,4
+Ralstonia pickettii,4
+Rothia kristinae,4
+Staphylococcus condimenti,4
+Serratia rubidaea,4
+Yersinia frederiksenii,4
+Streptococcus sp. FDAARGOS_520,4
+Streptococcus anginosus,4
+Staphylococcus vitulinus,4
+Leclercia adecarboxylata,4
+Sphingomonas paucimobilis,4
+Hafnia paralvei,4
+Aerococcus viridans,4
+Aeromonas jandaei,4
+Chryseobacterium gleum,4
+Cedecea sp. FDAARGOS_727,4
+Capnocytophaga sp. FDAARGOS_737,4
+Corynebacterium riegelii,4
+Enterobacter roggenkampii,4
+Alcaligenes faecalis,4
+Burkholderia humptydooensis,4
+Gemella haemolysans,4
+Achromobacter pestifer,4
+Cutibacterium acnes,4
+Enterobacter cloacae complex sp.,4
+Acinetobacter haemolyticus,4
+Corynebacterium falsenii,4
+Dermabacter hominis,4
+Corynebacterium freneyi,4
+Gemella morbillorum,4
+Enterococcus durans,4
+Grimontia hollisae,4
+Achromobacter insolitus,4
+Elizabethkingia meningoseptica,4
+Escherichia coli O104:H4,4
+Capnocytophaga ochracea,4
+Fusobacterium canifelinum,4
+Burkholderia ambifaria,4
+Clavispora lusitaniae,4
+Enterobacter cancerogenus,4
+Cupriavidus metallidurans,4
+Corynebacterium aurimucosum,4
+Corynebacterium coyleae,4
+Chryseobacterium sp. FDAARGOS 1104,4
+Pseudomonas monteilii,3
+Streptococcus sanguinis,3
+Neisseria mucosa,3
+Roseomonas gilardii,3
+Streptococcus sp. FDAARGOS_521,3
+Roseomonas sp. FDAARGOS_362,3
+Pseudomonas protegens,3
+Salmonella enterica subsp. enterica serovar Paratyphi A,3
+Lysinibacillus macroides,3
+Serratia odorifera,3
+Pseudomonas fulva,3
+Leptospira interrogans serovar Copenhageni,3
+Streptococcus sp. FDAARGOS_522,3
+Staphylococcus felis,3
+Veillonella parvula,3
+Kocuria rhizophila,3
+Pseudomonas sp. FDAARGOS_761,3
+Mycobacterium avium subsp. paratuberculosis,3
+Neisseria sicca,3
+Staphylococcus sp. FDAARGOS_39,3
+Roseobacter denitrificans,3
+Achromobacter deleyi,3
+Cupriavidus gilardii,3
+Corynebacterium bovis,3
+Campylobacter lari,3
+Edwardsiella hoshinae,3
+Acinetobacter sp. FDAARGOS_131,3
+Enterococcus sp. FDAARGOS_553,3
+Acinetobacter sp. FDAARGOS_494,3
+Abiotrophia defectiva,3
+Acinetobacter sp. FDAARGOS_558,3
+Bifidobacterium breve,3
+Citrobacter sp.,3
+Bordetella pertussis 18323,3
+Acinetobacter sp. FDAARGOS_559,3
+Enterococcus gallinarum,3
+Acinetobacter sp. FDAARGOS_560,3
+Acinetobacter sp. FDAARGOS_724,3
+Bacteroides cellulosilyticus,3
+Salmonella enterica subsp. enterica serovar Hadar,2
+Lacrimispora saccharolytica,2
+Pseudomonas sp. FDAARGOS_380,2
+Schaalia odontolytica,2
+Micrococcus sp. FDAARGOS_333,2
+Serratia fonticola,2
+Stutzerimonas frequens,2
+Odoribacter splanchnicus DSM 20712,2
+Weissella paramesenteroides,2
+Oligella ureolytica,2
+Mycobacterium ostraviense,2
+Rothia aeria,2
+Salmonella enterica subsp. enterica serovar Bredeney,2
+Oligella urethralis,2
+Streptococcus thermophilus LMD-9,2
+Lactobacillus crispatus,2
+Tsukamurella paurometabola,2
+Serratia sp. FDAARGOS_506,2
+Neisseria cinerea,2
+Serratia ureilytica,2
+Raoultella ornithinolytica,2
+Severe acute respiratory syndrome coronavirus 2,2
+Hendra henipavirus,2
+Shewanella putrefaciens,2
+Providencia alcalifaciens,2
+Shewanella sp. FDAARGOS_354,2
+Lachnospira eligens,2
+Shigella boydii,2
+Streptococcus sp. FDAARGOS_192,2
+Lactobacillus jensenii,2
+Salmonella enterica subsp. enterica serovar Infantis,2
+Pantoea sp. FDAARGOS_194,2
+Stutzerimonas balearica,2
+Mobiluncus mulieris,2
+Sutterella wadsworthensis,2
+Parabacteroides gordonii,2
+Salmonella enterica subsp. enterica serovar Saintpaul,2
+Parabacteroides johnsonii,2
+Nocardia gipuzkoensis,2
+Parabacteroides merdae,2
+Mammaliicoccus vitulinus,2
+Staphylococcus auricularis,2
+Nocardia sp. FDAARGOS_372,2
+Paraburkholderia fungorum,2
+Reston ebolavirus,2
+Monkeypox virus,2
+Yersinia sp. FDAARGOS_228,2
+Kingella denitrificans,2
+Proteus penneri,2
+Parvimonas micra,2
+Streptococcus lutetiensis,2
+Rothia dentocariosa,2
+Listeria welshimeri,2
+Leuconostoc falkenbergense,2
+Streptococcus pneumoniae,2
+Nocardia abscessus,2
+Pseudomonas fluorescens,2
+Leuconostoc mesenteroides,2
+Streptococcus sp. FDAARGOS_146,2
+Peptoniphilus asaccharolyticus,2
+Streptococcus sp. FDAARGOS_256,2
+Rothia mucilaginosa,2
+Nocardia brasiliensis,2
+Peribacillus psychrosaccharolyticus,2
+Streptococcus sp. 'group B',2
+Phocaeicola coprocola DSM 17136,2
+Pseudomonas luteola,2
+Phocaeicola coprophilus,2
+Stutzerimonas degradans,2
+Staphylococcus saccharolyticus,2
+Salmonella enterica subsp. enterica serovar Ohio,2
+Ruminococcus albus 8,2
+Mammaliicoccus fleurettii,2
+Plesiomonas shigelloides,2
+Nipah henipavirus,2
+Nocardia africana,2
+Mammaliicoccus sciuri,2
+Roseburia inulinivorans DSM 16841,2
+Vibrio diabolicus,2
+Porphyromonas endodontalis,2
+Vibrio furnissii,2
+Prescottella equi,2
+Psychrobacter cryohalolentis,2
+Streptobacillus moniliformis,2
+Klebsiella sp. FDAARGOS_511,2
+Prevotella buccalis,2
+Weizmannia coagulans,2
+Prevotella copri DSM 18205,2
+Yellow fever virus,2
+Streptococcus anginosus subsp. anginosus,2
+Nocardia yamanashiensis,2
+Mycobacterium intracellulare subsp. intracellulare,2
+Yersinia kristensenii,2
+Prevotella nigrescens,2
+Rhodanobacter sp. FDAARGOS 1247,2
+Propionibacterium acidifaciens,2
+Schaalia meyeri,2
+Streptococcus gallolyticus,2
+Listeria innocua,2
+Psychrobacter sp. FDAARGOS_221,2
+Dermacoccus nishinomiyaensis,2
+Haemophilus parainfluenzae,2
+Brevundimonas diminuta,2
+Atlantibacter hermannii,2
+Cupriavidus necator,2
+Aeromonas sp. FDAARGOS 1410,2
+Bordetella holmesii,2
+Cedecea neteri,2
+Arachnia propionica,2
+Aeromonas sp. FDAARGOS 1411,2
+Corynebacterium xerosis,2
+Bacillus licheniformis,2
+Delftia lacustris,2
+Acinetobacter sp. FDAARGOS_493,2
+Eikenella corrodens,2
+Chryseobacterium arthrosphaerae,2
+Anaerococcus murdochii,2
+Bacillus mycoides,2
+Brucella anthropi,2
+Acinetobacter radioresistens,2
+Aeromonas sp. FDAARGOS 1409,2
+Aeromonas sp. FDAARGOS 1406,2
+Corynebacterium ulcerans,2
+Acinetobacter sp. FDAARGOS_495,2
+Campylobacter hominis,2
+Acinetobacter sp. FDAARGOS_515,2
+Bartonella henselae,2
+Citrobacter europaeus,2
+Acinetobacter septicus,2
+Citrobacter farmeri,2
+Campylobacter jejuni subsp. doylei,2
+Acinetobacter sp. FDAARGOS_541,2
+Bordetella hinzii,2
+Acinetobacter seifertii,2
+Acinetobacter calcoaceticus,2
+Citrobacter pasteurii,2
+Enterobacter hormaechei subsp. oharae,2
+Aeromonas sp. FDAARGOS 1414,2
+Brevundimonas vesicularis,2
+Aeromonas sp. FDAARGOS 1408,2
+Campylobacter rectus,2
+Bacillus sp. FDAARGOS_1420,2
+Enterococcus sp. FDAARGOS_163,2
+Bacillus sp. FDAARGOS_235,2
+Aggregatibacter aphrophilus,2
+Butyricimonas virosa,2
+Campylobacter gracilis,2
+[Clostridium] innocuum,2
+Bacteroides uniformis,2
+Clostridium septicum,2
+Cronobacter sakazakii,2
+Clostridium sp. M62/1,2
+Bartonella bacilliformis,2
+Campylobacter curvus,2
+Actinomyces oris,2
+Collinsella stercoris DSM 13279,2
+Bartonella henselae str. Houston-1,2
+Comamonas terrigena,2
+Aerococcus urinae,2
+Coprococcus comes,2
+Dermabacter jinjuensis,2
+Coprococcus eutactus ATCC 27759,2
+Eastern equine encephalitis virus,2
+Bacillus subtilis,2
+Blautia massiliensis,2
+[Haemophilus] ducreyi,2
+[Ruminococcus] gnavus,2
+Campylobacter fetus subsp. testudinum,2
+Elizabethkingia miricola,2
+Aeromonas sp. FDAARGOS 1415,2
+Aeromonas sp. FDAARGOS 1419,2
+Aeromonas sp. FDAARGOS 1416,2
+Enterobacter cloacae,2
+Corynebacterium diphtheriae subsp. diphtheriae,2
+Borreliella burgdorferi,2
+Aggregatibacter segnis,2
+Aeromonas veronii,2
+Agrobacterium sp. FDAARGOS_525,2
+Enterocloster bolteae,2
+Aeromonas sp. FDAARGOS 1402,2
+Aeromonas allosaccharophila,2
+Agrobacterium tumefaciens,2
+Brucella canis,2
+Aeromonas sp. FDAARGOS 1407,2
+[Clostridium] scindens,2
+Alistipes senegalensis,2
+Budvicia aquatica,2
+Amycolatopsis sp. FDAARGOS 1241,2
+Enterococcus sp. FDAARGOS_375,2
+Granulicatella adiacens,2
+Aggregatibacter actinomycetemcomitans,2
+Anaerococcus degeneri,2
+Burkholderia plantarii,2
+Aeromonas sp. FDAARGOS 1404,2
+Fannyhessea vaginae,2
+Bacteroides eggerthii,2
+Aeromonas sp. FDAARGOS 1403,2
+Acidaminococcus fermentans DSM 20731,2
+Fusobacterium necrophorum,2
+Bacteroides nordii,2
+Burkholderia gladioli pv. gladioli,2
+Aeromonas sp. FDAARGOS 1417,2
+Gemella sanguinis,2
+Corynebacterium macginleyi,2
+Gordonia otitidis,2
+Bacteroides sp FDAARGOS 1223,2
+Granulicatella elegans,2
+Bacteroides sp FDAARGOS 1224,2
+Haemophilus aegyptius,2
+Aeromonas sp. FDAARGOS 1418,2
+Haemophilus parahaemolyticus,2
+Corynebacterium sp. FDAARGOS 1242,2
+Aeromonas sp. FDAARGOS 1405,2
+Acinetobacter variabilis,2
+Actinomyces naeslundii,2
+Rift Valley fever virus,1
+Machupo mammarenavirus,1
+Lassa mammarenavirus,1
+Argentinian mammarenavirus,1
+Guanarito mammarenavirus,1
+Crimean-Congo hemorrhagic fever orthonairovirus,1
+Chapare mammarenavirus,1
+Grand Total,3657
