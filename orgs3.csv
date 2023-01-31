@@ -1,0 +1,520 @@
+organism_name,count,avg_gc,taxid
+Zika virus,74,46.77067568,64320
+Zaire ebolavirus,73,39.24520548,186538
+Yersinia sp. FDAARGOS_228,2,46.86,1839800
+Yersinia pseudotuberculosis,26,46.97038462,633
+Yersinia pestis,10,46.873,632
+Yersinia kristensenii,2,46.765,28152
+Yersinia intermedia,8,46.31125,631
+Yersinia frederiksenii,4,47.065,29484
+Yersinia enterocolitica,15,46.76733333,630
+Yellow fever virus,2,46.79,11089
+West Nile virus,52,49.70538462,11082
+Weizmannia coagulans,2,46.04,1398
+Weissella paramesenteroides,2,38.4,1249
+Vibrio vulnificus,14,48.11785714,672
+Vibrio parahaemolyticus,25,46.412,670
+Vibrio mimicus,7,49.79714286,674
+Vibrio harveyi,9,48.98,669
+Vibrio furnissii,2,50.07,29494
+Vibrio fluvialis,6,48.17833333,676
+Vibrio diabolicus,2,44.86,50719
+Vibrio cholerae,12,50.29583333,666
+Vibrio alginolyticus,23,47.27043478,663
+Venezuelan equine encephalitis virus,8,45.905,11036
+Veillonella parvula,3,38.19333333,29466
+Tsukamurella paurometabola,2,67.59,2061
+Tai Forest ebolavirus,4,41.63,186541
+Sutterella wadsworthensis,2,53.83,40545
+Sudan ebolavirus,10,41.295,186540
+Stutzerimonas frequens,2,61.06,2968969
+Stutzerimonas degradans,2,61.645,2968968
+Stutzerimonas balearica,2,63.98,74829
+Streptomyces californicus,10,70.581,67351
+Streptococcus thermophilus LMD-9,2,39.335,322159
+Streptococcus sp. 'group B',2,35.85,1319
+Streptococcus sp. FDAARGOS_522,3,35.96333333,2420310
+Streptococcus sp. FDAARGOS_521,3,36.14,2420309
+Streptococcus sp. FDAARGOS_520,4,36.66,2420308
+Streptococcus sp. FDAARGOS_256,2,41.27,1975706
+Streptococcus sp. FDAARGOS_192,2,39.305,1839799
+Streptococcus sp. FDAARGOS_146,2,44.995,1702171
+Streptococcus sanguinis,3,43.42666667,1305
+Streptococcus salivarius,11,40.95636364,1304
+Streptococcus pyogenes,16,40.11125,1314
+Streptococcus pneumoniae,2,40.03,1313
+Streptococcus oralis,12,41.09416667,1303
+Streptococcus mutans,9,37.19777778,1309
+Streptococcus mitis,4,40.22,28037
+Streptococcus lutetiensis,2,38.075,150055
+Streptococcus intermedius,5,38.082,1338
+Streptococcus infantarius,4,37.7575,102684
+Streptococcus gordonii,10,40.505,1302
+Streptococcus gallolyticus,2,38.145,315405
+Streptococcus equinus,7,38.06285714,1335
+Streptococcus dysgalactiae,9,39.47666667,1334
+Streptococcus constellatus,6,38.165,76860
+Streptococcus anginosus subsp. anginosus,2,39.37,1671923
+Streptococcus anginosus,4,38.64,1328
+Streptococcus agalactiae,10,36.371,1311
+Streptobacillus moniliformis,2,27.99,34105
+Stenotrophomonas maltophilia,15,63.87733333,40324
+Staphylococcus warneri,4,35.5775,1292
+Staphylococcus vitulinus,4,33.1525,71237
+Staphylococcus sp. FDAARGOS_39,3,35.31333333,2201033
+Staphylococcus simulans,5,38.674,1286
+Staphylococcus saprophyticus,9,37.67444444,29385
+Staphylococcus saccharolyticus,2,32.225,33028
+Staphylococcus pseudintermedius,7,37.91714286,283734
+Staphylococcus pettenkoferi,4,38.7725,170573
+Staphylococcus pasteuri,10,31.97,45972
+Staphylococcus lugdunensis,12,37.91083333,28035
+Staphylococcus hominis,22,33.16954545,1290
+Staphylococcus haemolyticus,11,39.08181818,1283
+Staphylococcus felis,3,35.79333333,46127
+Staphylococcus equorum,8,33.52875,246432
+Staphylococcus epidermidis,27,34.78925926,1282
+Staphylococcus condimenti,4,35.3,70255
+Staphylococcus cohnii,8,32.80875,29382
+Staphylococcus carnosus,6,35.03333333,1281
+Staphylococcus capitis,8,36.3725,29388
+Staphylococcus auricularis,2,37.6,29379
+Staphylococcus aureus,157,36.21515924,1280
+Sphingomonas paucimobilis,4,63.92,13689
+Sphingobacterium spiritivorum,6,39.89333333,258
+Sphingobacterium multivorum,10,40.128,28454
+Shigella sonnei,19,50.7,624
+Shigella flexneri,24,49.66291667,623
+Shigella boydii,2,49.945,621
+Shewanella sp. FDAARGOS_354,2,46.015,1930557
+Shewanella putrefaciens,2,43.76,24
+Severe acute respiratory syndrome coronavirus 2,2,42.165,2697049
+Serratia ureilytica,2,58.425,300181
+Serratia sp. FDAARGOS_506,2,57.57,2420306
+Serratia rubidaea,4,56.61,61652
+Serratia plymuthica,12,53.58083333,82996
+Serratia odorifera,3,54.63333333,618
+Serratia marcescens,12,57.855,615
+Serratia liquefaciens,5,54.484,614
+Serratia fonticola,2,52.65,47917
+Schaalia odontolytica,2,62.075,1660
+Schaalia meyeri,2,63.89,52773
+Salmonella enterica subsp. houtenae,4,51.37,59205
+Salmonella enterica subsp. enterica serovar Typhimurium var. 5-,4,51.305,1620419
+Salmonella enterica subsp. enterica serovar Typhimurium,6,51.56333333,90371
+Salmonella enterica subsp. enterica serovar Saintpaul,2,51.46,90105
+Salmonella enterica subsp. enterica serovar Paratyphi A,3,51.9,54388
+Salmonella enterica subsp. enterica serovar Ohio,2,51.41,117541
+Salmonella enterica subsp. enterica serovar Infantis,2,51.675,595
+Salmonella enterica subsp. enterica serovar Heidelberg,6,51.68666667,611
+Salmonella enterica subsp. enterica serovar Hadar,2,51.155,149385
+Salmonella enterica subsp. enterica serovar Bredeney,2,50.965,134047
+Salmonella enterica,54,51.36962963,28901
+Saccharomyces cerevisiae,4,37.23,4932
+Ruminococcus albus 8,2,46.74,246199
+Rothia mucilaginosa,2,57.635,43675
+Rothia kristinae,4,69.93,37923
+Rothia dentocariosa,2,53.005,2047
+Rothia aeria,2,55.4,172042
+Ross River virus,5,47.554,11029
+Roseomonas sp. FDAARGOS_362,3,65.68333333,2018065
+Roseomonas gilardii,3,65.39,257708
+Roseobacter denitrificans,3,57.36666667,2434
+Roseburia inulinivorans DSM 16841,2,41.745,622312
+Rift Valley fever virus,1,43.95,11588
+Rhodanobacter sp. FDAARGOS 1247,2,65.065,2778082
+Rhizobium pusense,11,55.93090909,648995
+Reston ebolavirus,2,42.94,186539
+Raoultella planticola,12,54.53083333,575
+Raoultella ornithinolytica,2,54.3,54291
+Ralstonia pickettii,4,63.4725,329
+Psychrobacter sp. FDAARGOS_221,2,43.21,1975705
+Psychrobacter sanguinis,8,41.395,861445
+Psychrobacter cryohalolentis,2,42.22,330922
+Pseudomonas stutzeri,5,61.824,316
+Pseudomonas sp. FDAARGOS_761,3,64.13333333,2545800
+Pseudomonas sp. FDAARGOS_380,2,58.655,2018067
+Pseudomonas putida,6,59.25666667,303
+Pseudomonas protegens,3,61.34333333,380021
+Pseudomonas oryzihabitans,5,60.966,47885
+Pseudomonas monteilii,3,60.51,76759
+Pseudomonas luteola,2,54.18,47886
+Pseudomonas fulva,3,60.10666667,47880
+Pseudomonas fluorescens,2,59.125,294
+Pseudomonas aeruginosa,31,63.13322581,287
+Providencia stuartii,16,42.928125,588
+Providencia rettgeri,8,40.28125,587
+Providencia alcalifaciens,2,42.025,126385
+Proteus vulgaris,9,38.59555556,585
+Proteus penneri,2,38.135,102862
+Proteus mirabilis,20,41.101,584
+Propionibacterium acidifaciens,2,68.595,556499
+Prevotella nigrescens,2,43.08,28133
+Prevotella melaninogenica,9,41.03333333,28132
+Prevotella copri DSM 18205,2,44.56,537011
+Prevotella buccalis,2,44.84,28127
+Prescottella equi,2,66.845,43767
+Porphyromonas endodontalis,2,47.555,28124
+Pluralibacter gergoviae,4,57.06,61647
+Plesiomonas shigelloides,2,51.02,703
+Phocaeicola vulgatus,6,42.245,821
+Phocaeicola coprophilus,2,45.19,387090
+Phocaeicola coprocola DSM 17136,2,41.595,470145
+Peribacillus psychrosaccharolyticus,2,39.055,1407
+Peptoniphilus harei,5,35.41,54005
+Peptoniphilus asaccharolyticus,2,33.25,1258
+Pediococcus pentosaceus,11,38.12818182,1255
+Pediococcus acidilactici,6,42.81666667,1254
+Pasteurella multocida,19,40.64526316,747
+Parvimonas micra,2,28.82,33033
+Paracoccus yeei,8,63.12375,147645
+Paraburkholderia ginsengisoli,4,60.29,311231
+Paraburkholderia fungorum,2,59.595,134537
+Parabacteroides merdae,2,44.84,46503
+Parabacteroides johnsonii,2,44.695,387661
+Parabacteroides gordonii,2,44.395,574930
+Parabacteroides distasonis,12,44.7,823
+Pantoea sp. FDAARGOS_194,2,56.995,1975707
+Pantoea ananatis,4,50.5825,553
+Pantoea agglomerans,9,55.01333333,549
+Oligella urethralis,2,45.925,90245
+Oligella ureolytica,2,43.95,90244
+Odoribacter splanchnicus DSM 20712,2,42.995,709991
+Nocardia yamanashiensis,2,66.44,209247
+Nocardia sp. FDAARGOS_372,2,69.405,2018066
+Nocardia gipuzkoensis,2,66.145,2749991
+Nocardia brasiliensis,2,66.61,37326
+Nocardia asteroides,8,67.86625,1824
+Nocardia africana,2,65.735,134964
+Nocardia abscessus,2,65.665,120957
+Nipah henipavirus,2,41.395,121791
+Niallia circulans,6,38.01666667,1397
+Neisseria sicca,3,49.41666667,490
+Neisseria mucosa,3,48.36333333,488
+Neisseria meningitidis,18,50.52222222,487
+Neisseria gonorrhoeae,8,51.32375,485
+Neisseria cinerea,2,50.38,483
+Myroides odoratus,4,36.5525,256
+Mycolicibacterium smegmatis,12,65.43083333,1772
+Mycobacteroides abscessus subsp. abscessus,6,62.83,1185650
+Mycobacteroides abscessus,5,62.146,36809
+Mycobacterium tuberculosis,11,63.25545455,1773
+Mycobacterium ostraviense,2,64.26,2738409
+Mycobacterium kansasii,8,64.53,1768
+Mycobacterium intracellulare subsp. intracellulare,2,65.94,35617
+Mycobacterium intracellulare,6,66.07166667,1767
+Mycobacterium avium subsp. paratuberculosis,3,64.95,1770
+Mycobacterium avium subsp. avium,8,67.44,44454
+Morganella morganii,13,50.50923077,582
+Moraxella osloensis,8,42.58125,34062
+Moraxella nonliquefaciens,4,42.13,478
+Moraxella catarrhalis,5,41.504,480
+Monkeypox virus,2,48.14,10244
+Mobiluncus mulieris,2,53.04,2052
+Mobiluncus curtisii,4,54.6775,2051
+Middle East respiratory syndrome-related coronavirus,4,43.25,1335626
+Micrococcus sp. FDAARGOS_333,2,68.595,1930558
+Micrococcus luteus,6,69.18333333,1270
+Marburg marburgvirus,5,40.556,11269
+Mammaliicoccus vitulinus,2,33.335,71237
+Mammaliicoccus sciuri,2,33.5,1296
+Mammaliicoccus fleurettii,2,36.445,150056
+Macrococcus caseolyticus,4,36.205,69966
+Machupo mammarenavirus,1,41.73,11628
+Lysinibacillus macroides,3,38.21,33935
+Listeria welshimeri,2,38.795,1643
+Listeria monocytogenes,20,40.0215,1639
+Listeria innocua,2,38.8,1642
+Leuconostoc pseudomesenteroides,4,39.555,33968
+Leuconostoc mesenteroides,2,38.045,1245
+Leuconostoc falkenbergense,2,40.03,2766470
+Leptospira interrogans serovar Copenhageni,3,39.99666667,44275
+Lelliottia amnigena,8,52.03,61646
+Leishmania donovani,11,56.80363636,5661
+Legionella pneumophila subsp. pneumophila,4,43.5275,91891
+Legionella pneumophila,6,38.62166667,446
+Legionella longbeachae,5,39.272,450
+Legionella anisa,6,41.94166667,28082
+Leclercia adecarboxylata,4,54.71,83655
+Lassa mammarenavirus,1,43.9,11620
+Lactococcus lactis,10,35.42,1358
+Lactococcus garvieae,10,38.009,1363
+Lactobacillus jensenii,2,34.74,109790
+Lactobacillus crispatus,2,37.195,47770
+Lacrimispora saccharolytica,2,44.89,84030
+Lachnospiraceae bacterium GAM79,4,41.335,2109691
+Lachnospira eligens,2,37.685,39485
+Kytococcus sedentarius,4,69.24,1276
+Kocuria rhizophila,3,68.21333333,72000
+Klebsiella variicola,7,55.22571429,244366
+Klebsiella sp. FDAARGOS_511,2,54.375,2488567
+Klebsiella quasipneumoniae,11,56.68,1463165
+Klebsiella pneumoniae,112,55.32991071,573
+Klebsiella oxytoca,18,53.99722222,571
+Klebsiella michiganensis,6,54.01833333,1134687
+Klebsiella aerogenes,23,53.83086957,548
+Kingella denitrificans,2,52.095,502
+Jonesia denitrificans,6,56.36833333,43674
+Hendra henipavirus,2,41.235,63330
+Helicobacter pylori,12,39.16416667,210
+Hafnia paralvei,4,47.81,546367
+Hafnia alvei,11,48.30636364,569
+Haemophilus parainfluenzae,2,39.185,729
+Haemophilus parahaemolyticus,2,40.555,735
+Haemophilus influenzae,12,38.51833333,727
+Haemophilus aegyptius,2,38.635,197575
+Guanarito mammarenavirus,1,41.24,45219
+Grimontia hollisae,4,50.145,673
+Granulicatella elegans,2,34.225,137732
+Granulicatella adiacens,2,38.315,46124
+Gordonia otitidis,2,64.195,249058
+Gordonia bronchialis,8,64.39875,2054
+Gemella sanguinis,2,30.88,84135
+Gemella morbillorum,4,31.4575,29391
+Gemella haemolysans,4,32.0175,1379
+Gardnerella vaginalis,6,41.37166667,2702
+Fusobacterium necrophorum,2,34.09,859
+Fusobacterium canifelinum,4,28.28,285729
+Francisella tularensis,15,33.06533333,263
+Finegoldia magna,10,32.899,1260
+Fannyhessea vaginae,2,42.125,82135
+Escherichia fergusonii,9,49.94333333,564
+Escherichia coli O104:H4,4,49.8325,1038927
+Escherichia coli,267,49.95546816,562
+Erysipelatoclostridium ramosum,8,32.23875,1547
+Enterococcus sp. FDAARGOS_553,3,42.74333333,2420313
+Enterococcus sp. FDAARGOS_375,2,41.935,2060307
+Enterococcus sp. FDAARGOS_163,2,45.025,2060306
+Enterococcus hirae,11,36.81454545,1354
+Enterococcus gallinarum,3,40.67,1353
+Enterococcus faecium,15,39.22333333,1352
+Enterococcus faecalis,16,38.154375,1351
+Enterococcus durans,4,38.15,53345
+Enterococcus casseliflavus,8,42.23625,37734
+Enterococcus avium,10,39.576,33945
+Enterocloster clostridioformis,5,48.352,1531
+Enterocloster bolteae,2,48.425,208479
+Enterobacter roggenkampii,4,54.775,1812935
+Enterobacter ludwigii,6,54.22166667,299767
+Enterobacter hormaechei subsp. oharae,2,54.97,301102
+Enterobacter hormaechei,19,54.31947368,158836
+Enterobacter cloacae complex sp.,4,55.015,2027919
+Enterobacter cloacae,2,54.185,550
+Enterobacter cancerogenus,4,54.71,69218
+Enterobacter bugandensis,8,55.0125,881260
+Enterobacter asburiae,8,53.04375,61645
+Elizabethkingia miricola,2,36.545,172045
+Elizabethkingia meningoseptica,4,44.0525,238
+Elizabethkingia anophelis,5,40.538,1117645
+Eikenella corrodens,2,55.235,539
+Edwardsiella tarda,5,55.808,636
+Edwardsiella hoshinae,3,53.67333333,93378
+Eastern equine encephalitis virus,2,46.52,11021
+Dermacoccus nishinomiyaensis,2,67.005,1274
+Dermabacter jinjuensis,2,61.85,1667168
+Dermabacter hominis,4,61.8875,36740
+Dengue virus,24,45.87291667,12637
+Delftia lacustris,2,63.69,558537
+Delftia acidovorans,9,62.38888889,80866
+Cutibacterium acnes,4,58.8075,1747
+Cupriavidus pauculus,11,61.10818182,82633
+Cupriavidus necator,2,64.885,106590
+Cupriavidus metallidurans,4,61.625,119219
+Cupriavidus gilardii,3,64.72,82541
+Cronobacter sakazakii,2,54.89,28141
+Crimean-Congo hemorrhagic fever orthonairovirus,1,41.26,1980519
+Corynebacterium xerosis,2,63.71,1725
+Corynebacterium urealyticum,8,57.62625,43771
+Corynebacterium ulcerans,2,51.955,65058
+Corynebacterium tuberculostearicum,10,56.456,38304
+Corynebacterium striatum,11,56,43770
+Corynebacterium sp. FDAARGOS 1242,2,58.98,2778078
+Corynebacterium riegelii,4,56.3725,156976
+Corynebacterium propinquum,7,53.79,43769
+Corynebacterium minutissimum,6,58.85666667,38301
+Corynebacterium macginleyi,2,56.305,38290
+Corynebacterium kroppenstedtii,6,56.27666667,161879
+Corynebacterium jeikeium,5,57.814,38289
+Corynebacterium glucuronolyticum,9,57.68111111,39791
+Corynebacterium freneyi,4,66.3325,134034
+Corynebacterium falsenii,4,62.055,108486
+Corynebacterium diphtheriae subsp. diphtheriae,2,53.03,2315257
+Corynebacterium diphtheriae,8,52.99375,1717
+Corynebacterium coyleae,4,60.3025,53374
+Corynebacterium bovis,3,64.52,36808
+Corynebacterium aurimucosum,4,58.765,169292
+Corynebacterium amycolatum,13,55.57230769,43765
+Coprococcus eutactus ATCC 27759,2,42.9,411474
+Coprococcus comes,2,42.615,410072
+Comamonas terrigena,2,62.83,32013
+Collinsella stercoris DSM 13279,2,61.575,445975
+Clostridium sporogenes,12,29.09916667,1509
+Clostridium sp. M62/1,2,49.14,411486
+Clostridium septicum,2,30.185,1504
+Clostridium perfringens,10,29.23,1502
+Clostridioides difficile,21,30.37761905,1496
+Clavispora lusitaniae,4,42.7925,36911
+Citrobacter werkmanii,6,49.66,67827
+Citrobacter sp.,3,51.40333333,1896336
+Citrobacter portucalensis,7,49.79857143,1639133
+Citrobacter pasteurii,2,51.59,1563222
+Citrobacter koseri,19,52.77421053,545
+Citrobacter freundii,10,51.22,546
+Citrobacter farmeri,2,52.985,67824
+Citrobacter europaeus,2,51.49,1914243
+Citrobacter braakii,11,50.67636364,57706
+Citrobacter amalonaticus,13,52.82230769,35703
+Chryseobacterium sp. FDAARGOS 1104,4,38.5,2778077
+Chryseobacterium indologenes,17,37.84352941,253
+Chryseobacterium gleum,4,37.18,250
+Chryseobacterium arthrosphaerae,2,38.52,651561
+Chromobacterium violaceum,10,63.036,536
+Chikungunya virus,5,47.614,37124
+Chapare mammarenavirus,1,42.27,499556
+Cedecea sp. FDAARGOS_727,4,51.1275,2545798
+Cedecea neteri,2,52.84,158822
+Capnocytophaga sp. FDAARGOS_737,4,39.845,2545799
+Capnocytophaga ochracea,4,39.9125,1018
+Candida parapsilosis,18,38.43333333,5480
+Candida albicans,6,34.92333333,5476
+Campylobacter ureolyticus,7,30.82285714,827
+Campylobacter upsaliensis,5,35.69,28080
+Campylobacter rectus,2,44.715,203
+Campylobacter lari,3,30.73333333,201
+Campylobacter jejuni subsp. doylei,2,32.455,32021
+Campylobacter jejuni,16,31.479375,197
+Campylobacter hominis,2,32.695,76517
+Campylobacter gracilis,2,46.6,824
+Campylobacter fetus subsp. testudinum,2,33.725,1507806
+Campylobacter curvus,2,44.405,200
+Campylobacter coli,10,31.87,195
+Butyricimonas virosa,2,42.69,544645
+Burkholderia vietnamiensis,8,63.86125,60552
+Burkholderia thailandensis,22,64.34636364,57975
+Burkholderia pseudomallei,14,64.97071429,28450
+Burkholderia plantarii,2,66.125,41899
+Burkholderia oklahomensis,8,61.63875,342113
+Burkholderia multivorans,35,62.90714286,87883
+Burkholderia mallei,18,65.13388889,13373
+Burkholderia humptydooensis,4,60.48,430531
+Burkholderia glumae,7,64.66571429,337
+Burkholderia gladioli pv. gladioli,2,64.34,32009
+Burkholderia gladioli,8,65.37625,28095
+Burkholderia dolosa,15,65.08066667,152500
+Burkholderia cepacia,8,63.485,292
+Burkholderia cenocepacia,23,62.39869565,95486
+Burkholderia ambifaria,4,64.8,152480
+Bundibugyo ebolavirus,9,41.84666667,565995
+Budvicia aquatica,2,45.97,82979
+Brucella canis,2,56.155,36855
+Brucella anthropi,2,55.445,529
+Brevundimonas vesicularis,2,64.295,41276
+Brevundimonas diminuta,2,65.805,293
+Brevibacterium casei,10,65.686,33889
+Borreliella burgdorferi,2,31.545,139
+Bordetella pertussis 18323,3,62.71333333,568706
+Bordetella pertussis,21,65.17809524,520
+Bordetella parapertussis,8,63.1375,519
+Bordetella holmesii,2,61.41,35814
+Bordetella hinzii,2,64.35,103855
+Bordetella bronchiseptica,14,64.35571429,518
+Blautia massiliensis,2,43.965,1737424
+Bifidobacterium breve,3,57.91,1685
+Bartonella henselae str. Houston-1,2,40.51,283166
+Bartonella henselae,2,38.645,38323
+Bartonella bacilliformis,2,41.205,774
+Bacteroides uniformis,2,45.96,820
+Bacteroides thetaiotaomicron,7,42.64714286,818
+Bacteroides sp FDAARGOS 1224,2,42.165,2778073
+Bacteroides sp FDAARGOS 1223,2,44.44,2778072
+Bacteroides ovatus,7,42.00285714,28116
+Bacteroides nordii,2,40.935,291645
+Bacteroides fragilis,21,43.1347619,817
+Bacteroides eggerthii,2,45.105,28111
+Bacteroides cellulosilyticus,3,42.67,246787
+Bacteroides caccae,5,41.706,47678
+Bacillus tropicus,7,36.47714286,2026188
+Bacillus thuringiensis,23,36.29434783,1428
+Bacillus subtilis,2,43.585,1423
+Bacillus sp. FDAARGOS_235,2,35.615,1839798
+Bacillus sp. FDAARGOS_1420,2,35.955,2856338
+Bacillus sp. (in: firmicutes),5,36.568,1409
+Bacillus mycoides,2,36.295,1405
+Bacillus licheniformis,2,44.765,1402
+Bacillus cereus,28,36.5,1396
+Bacillus anthracis,27,36.03333333,1392
+Atlantibacter hermannii,2,52.895,565
+Aspergillus niger,5,47.964,5061
+Argentinian mammarenavirus,1,44.04,2169991
+Arachnia propionica,2,64.9,1750
+Anaerococcus vaginalis,5,31.036,33037
+Anaerococcus murdochii,2,35.93,411577
+Anaerococcus degeneri,2,36.065,361500
+Amycolatopsis sp. FDAARGOS 1241,2,68.86,2778070
+Alistipes senegalensis,2,56.7,1288121
+Alcaligenes faecalis,4,55.8275,511
+Agrobacterium tumefaciens,2,57.275,358
+Agrobacterium sp. FDAARGOS_525,2,57.835,2420311
+Aggregatibacter segnis,2,42.185,739
+Aggregatibacter aphrophilus,2,42.48,732
+Aggregatibacter actinomycetemcomitans,2,44.62,714
+Aeromonas veronii,2,57.34,654
+Aeromonas sp. FDAARGOS 1419,2,58.105,2778068
+Aeromonas sp. FDAARGOS 1418,2,61.035,2778067
+Aeromonas sp. FDAARGOS 1417,2,57.88,2778066
+Aeromonas sp. FDAARGOS 1416,2,58.425,2778065
+Aeromonas sp. FDAARGOS 1415,2,61.79,2778064
+Aeromonas sp. FDAARGOS 1414,2,57.295,2778063
+Aeromonas sp. FDAARGOS 1411,2,58.3,2778060
+Aeromonas sp. FDAARGOS 1410,2,58.315,2778059
+Aeromonas sp. FDAARGOS 1409,2,62.045,2778058
+Aeromonas sp. FDAARGOS 1408,2,60.705,2778057
+Aeromonas sp. FDAARGOS 1407,2,58.405,2778056
+Aeromonas sp. FDAARGOS 1406,2,60.655,2778055
+Aeromonas sp. FDAARGOS 1405,2,57.875,2778054
+Aeromonas sp. FDAARGOS 1404,2,56.98,2778053
+Aeromonas sp. FDAARGOS 1403,2,60.975,2778052
+Aeromonas sp. FDAARGOS 1402,2,61.205,2778051
+Aeromonas jandaei,4,57.8325,650
+Aeromonas hydrophila,6,59.66166667,644
+Aeromonas enteropelogenes,10,58.778,29489
+Aeromonas caviae,10,59.175,648
+Aeromonas allosaccharophila,2,56.56,656
+Aerococcus viridans,4,39.15,1377
+Aerococcus urinae,2,43.225,1376
+Actinomyces oris,2,65.91,544580
+Actinomyces naeslundii,2,65.77,1655
+Acinetobacter variabilis,2,42.255,70346
+Acinetobacter ursingii,6,39.89333333,108980
+Acinetobacter sp. FDAARGOS_724,3,41.51333333,2545797
+Acinetobacter sp. FDAARGOS_560,3,39.44,2420305
+Acinetobacter sp. FDAARGOS_559,3,39.07,2420304
+Acinetobacter sp. FDAARGOS_558,3,38.71666667,2420303
+Acinetobacter sp. FDAARGOS_541,2,42.26,2420312
+Acinetobacter sp. FDAARGOS_515,2,39.895,2420307
+Acinetobacter sp. FDAARGOS_495,2,39.54,2420302
+Acinetobacter sp. FDAARGOS_494,3,39.76,2420301
+Acinetobacter sp. FDAARGOS_493,2,39.6,2420300
+Acinetobacter sp. FDAARGOS_131,3,42.29333333,1876769
+Acinetobacter septicus,2,39.85,465797
+Acinetobacter seifertii,2,38.615,1530123
+Acinetobacter radioresistens,2,41.255,40216
+Acinetobacter pittii,16,38.88,48296
+Acinetobacter nosocomialis,5,40.418,106654
+Acinetobacter lwoffii,9,49.21888889,28090
+Acinetobacter johnsonii,8,41.10125,40214
+Acinetobacter haemolyticus,4,39.935,29430
+Acinetobacter calcoaceticus,2,39.1,471
+Acinetobacter baumannii,21,40.23619048,470
+Acidaminococcus fermentans DSM 20731,2,54.63,591001
+Achromobacter xylosoxidans,24,64.54916667,85698
+Achromobacter pestifer,4,60.455,1353889
+Achromobacter insolitus,4,62.9175,217204
+Achromobacter denitrificans,15,63.70733333,32002
+Achromobacter deleyi,3,64.65333333,1353891
+Abiotrophia defectiva,3,46.38333333,46125
+[Ruminococcus] gnavus,2,43.045,33038
+[Haemophilus] ducreyi,2,38.77,730
+[Clostridium] scindens,2,45.84,29347
+[Clostridium] innocuum,2,49.26,1522
+,,,
