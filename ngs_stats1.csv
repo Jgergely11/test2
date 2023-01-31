@@ -1,4 +1,4 @@
-Version,Release Date,ngs_count,assembly_count,site_count,biosample_count
+version,release_date,ngs_count,assembly_count,site_count,biosample_count
 1.4,4-Feb-2022,6,6,1,1
 1.6,17-Feb-2022,7,7,1,1
 1.13,31-Mar-2022,967,8,1,42
