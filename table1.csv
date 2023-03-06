@@ -1,4 +1,4 @@
-pos,mean-2stdev,mean,mean+2stdev,numFiles,max,min,highOutliers,lowOutliers,#reads
+pos,low_mean,mean,high_mean,numFiles,max,min,highOutliers,lowOutliers,#reads
 0,32.0045,34.5957,37.1870,2,35.8914,33.3001,"","",0
 1,32.8958,34.8354,36.7750,2,35.8052,33.8656,"","",0
 2,34.9022,35.6016,36.3009,2,35.9512,35.2519,"","",0
