@@ -1,0 +1,45 @@
+organism	lineage	GC	Expected	Column1
+Salmonella enterica	LT2	50.61	52	From Assembly
+Salmonella enterica	Ohio	51.62	52	From Assembly
+Salmonella enterica	Typhimurium var. 5-	51.14	52	From Assembly
+Salmonella enterica	Infantis	47.08	52	From Assembly
+Salmonella enterica	Heidelberg	49.25	52	From Assembly
+Salmonella enterica	Hadar	51.52	52	From Assembly
+Salmonella enterica	Houtenae	52.1	51.5	From Assembly
+Salmonella enterica	Paratyphi A	51.67	52	From Assembly
+Salmonella enterica	Bredeney	51.12	52	From Assembly
+Salmonella enterica	Saintpaul	51.31	52	From Assembly
+Salmonella enterica	Enterica	50.06	52	From Assembly
+Salmonella enterica	Typhimurium	51.95	52	From Assembly
+Marburg marburgvirus	IRF0296 MARV MUSOKE	39.84	38.05	From NCBI- median GC% for taxid
+Marburg marburgvirus	Ravn virus/IRF0322 RAVN	38.74	38.05	From NCBI- median GC% for taxid
+Marburg marburgvirus	Musoke	44.88	38.05	From NCBI- median GC% for taxid
+Marburg marburgvirus	IRF0202 MARV ANGOLA	39.55	38.05	From NCBI- median GC% for taxid
+Marburg marburgvirus	IRF0328 MARV CI67	39.78	38.05	From NCBI- median GC% for taxid
+Middle East respiratory syndrome related coronavirus	EMC/2012	42.78	41.2	From NCBI- median GC% for taxid
+Middle East respiratory syndrome related coronavirus	IRF0021 MERS JOR	41.55	41.2	From NCBI- median GC% for taxid
+Middle East respiratory syndrome related coronavirus	VR-3248SD	45.89	41.2	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	2019-nCoV/USA-WA1/2020	42.18	38	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	Alpha/B.1.1.7	38.67	38	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	Beta/B.1.351	38.34	38	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	Gamma/P.1	40.09	38	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	Delta/B.1.617.2	47.17	38	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	Omicron/B.1.1.529	53.87	38	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	Wuhan Hu 1	50.97	38	From Assembly
+Monkeypox virus	USA2003	49	33	From NCBI- median GC% for taxid
+Monkeypox virus	WRAIR 761	47	33	From NCBI- median GC% for taxid
+Escherichia coli	Escherichia coli	50.37	50.6	From NCBI- median GC% for taxid
+Human immunodeficiency virus 1	HIV-1	32.18	41.6	From NCBI- median GC% for taxid
+Influenza A virus	A/Puerto Rico/8/1934(H1N1)	49.86	43	From Assembly
+Influenza A virus	A/WA/07961/2022(H1N1)	46.96	43.57	From NCBI- median GC% for taxid
+Influenza A virus	A/WA/31872/2022(H3N2)	31.75	43.57	From NCBI- median GC% for taxid
+Middle East respiratory syndrome related coronavirus	IRF0038 MERS EMC	41.65	41.2	From NCBI- median GC% for taxid
+Sudan ebolavirus	Sudan ebolavirus	41.3	41.3	From NCBI- median GC% for taxid
+Severe acute respiratory syndrome coronavirus 2	XBB.1.5/Omicron	39.15	38	From NCBI- median GC% for taxid
+Yersinia	Yersinia enterocolitica	46.53	47	From NCBI- median GC% for taxid
+Yersinia	Yersinia frederiksenii	47.51	47.5	From NCBI- median GC% for taxid
+Yersinia	Yersinia intermedia	44.72	47.6	From NCBI- median GC% for taxid
+Yersinia	Yersinia kristensenii	49.26	47.5	From NCBI- median GC% for taxid
+Yersinia	Yersinia pestis	47.04	47.5	From NCBI- median GC% for taxid
+Yersinia	Yersinia pseudotuberculosis	46.73	47.5	From NCBI- median GC% for taxid
+Yersinia	Yersinia sp. FDAARGOS_228	46.12	47.5	From NCBI- median GC% for taxid
